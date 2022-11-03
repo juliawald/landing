@@ -1,0 +1,45 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.fa-brands, .fab {
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 400;
+}
+
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.fa-instagram:before {
+  content: "\f16d";
+}
+
+.fa-twitter:before {
+  content: "\f099";
+}
+
+.fa-github:before {
+  content: "\f09b";
+}
+
+.fa-facebook-f:before {
+  content: "\f39e";
+}
+
+.fa-heart:before {
+  content: "\f004";
+  color: red;
+}
